@@ -35,7 +35,7 @@ python3 crawl.py https://example.com
 
 Here is a screenshot showing the script running successfully:
 
-![Terminal output](./images/terminal-output.png)
+![Terminal output](terminal-output.png)
 
 ## ⚠️ Notes
 
