@@ -31,6 +31,12 @@ python3 crawl.py <target_url>
 python3 crawl.py https://example.com
 ```
 
+## Example Output
+
+Here is a screenshot showing the script running successfully:
+
+![Terminal output](./images/terminal-output.png)
+
 ## ⚠️ Notes
 
 - The script disables SSL certificate verification by default to avoid issues with expired or self-signed certificates.
